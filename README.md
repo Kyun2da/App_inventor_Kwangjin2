@@ -10,6 +10,7 @@
 #### 회의록
 
 - [첫 번째 회의록](./First_meeting.md)
+- [두 번째 회의록](./Second_meeting.md)
 
 #### 관련문서
 
